@@ -1,0 +1,19 @@
+# Бинарники и объектные файлы
+*.o
+*.a
+*.so
+*.out
+a.out
+
+# Артефакты сборки
+build/
+bin/
+obj/
+
+# Временные файлы
+*.swp
+*~
+.DS_Store
+
+# Метаданные Windows
+*:Zone.Identifier
